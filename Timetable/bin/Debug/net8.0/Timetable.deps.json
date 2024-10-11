@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Timetable/1.0.0": {
+        "dependencies": {
+          "ConsoleTables": "2.6.2",
+          "Sharprompt": "2.4.5"
+        },
+        "runtime": {
+          "Timetable.dll": {}
+        }
+      },
+      "ConsoleTables/2.6.2": {
+        "dependencies": {
+          "Wcwidth": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/ConsoleTables.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.6.2.0"
+          }
+        }
+      },
+      "Sharprompt/2.4.5": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sharprompt.dll": {
+            "assemblyVersion": "2.4.5.0",
+            "fileVersion": "2.4.5.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/de-DE/Sharprompt.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/netstandard2.0/ja/Sharprompt.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "System.ComponentModel.Annotations/5.0.0": {},
+      "Wcwidth/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Wcwidth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timetable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleTables/2.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/bH4u0Lni2FPUtGvg1oAKpsEzmhhBlqj0DD67kvV/4qELaEBXDbVo9w3lHFQFe00vLEAZi+5Rr8Nai0D2z7+bg==",
+      "path": "consoletables/2.6.2",
+      "hashPath": "consoletables.2.6.2.nupkg.sha512"
+    },
+    "Sharprompt/2.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hRYlerWsQGbm+okcxGrHzlm0n7wwVR2si1faSqt4IaO8iZcOKwW/MrBZgLiGRd2TVzFYGv22OuBoR2AatSlJbQ==",
+      "path": "sharprompt/2.4.5",
+      "hashPath": "sharprompt.2.4.5.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
+      "path": "system.componentmodel.annotations/5.0.0",
+      "hashPath": "system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    },
+    "Wcwidth/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aekut5BeF4c1Jr2qab3aXcttcgPEfPb2ok2L8911EIzn3RnDBYnUWgx/1OVlqrSXCdwAkBpNgYWXb6b5t4cBng==",
+      "path": "wcwidth/1.0.0",
+      "hashPath": "wcwidth.1.0.0.nupkg.sha512"
+    }
+  }
+}

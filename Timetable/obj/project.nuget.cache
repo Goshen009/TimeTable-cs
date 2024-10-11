@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWkrPTXQTwYia8Td9N5wqXM8/BoNIsoc3iUNR+f9MeKWkkHn+Cr46fS6doXgGrnRQHOajZ8+6qeE43HhvEQFvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\c# tests\\Timetable\\Timetable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\consoletables\\2.6.2\\consoletables.2.6.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sharprompt\\2.4.5\\sharprompt.2.4.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\wcwidth\\1.0.0\\wcwidth.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
